@@ -3,7 +3,7 @@ using System.Collections;
 
 public class GoTitle : MonoBehaviour {
 
-	private float change = 300;
+	private float change = 350;
 
 	// Use this for initialization
 	void Start () {
